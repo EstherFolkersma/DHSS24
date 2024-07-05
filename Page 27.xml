@@ -56,17 +56,21 @@
       </surface>
    </facsimile>
    <text>
-      <body><div><pb facs="#facs_27" n="27" xml:id="img_0027"/><fw type="page-number" facs="#facs_27_r" place="top">
-               <l rend="indent" facs="#facs_27_l_1672" n="N001">10</l></fw><ab facs="#facs_27_tr_1" type="">
-               <l rend="indent" facs="#facs_27_l" n="N001"><rs type="person">Sherlock Holmes</rs> listened with<add hand="Arthur Conan Doyle" place="supralinear" rend="black ink">closed eyes</add><del><hi style="text-decoration: line-through;">his eyes closed</hi></del> and his fingertips</l>
+      <body><div><pb facs="#facs_27" n="27" xml:id="img_0027"/><fw type="page-number" facs="#facs_27_r" place="top">10</fw>
+      <p>
+               <l rend="indent" facs="#facs_27_l" n="N001"><rs type="person">Sherlock Holmes</rs> listened with<add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"> closed eyes </add><del><hi style="text-decoration: line-through;">his eyes closed</hi></del> and his fingertips</l>
                <l facs="#facs_27_tr_1_tl_3" n="N004">together, to this remarkable account.</l>
+      </p>
+      <p>         
                <l rend="indent" facs="#facs_27_tr_1_tl_4" n="N005"><speech>"The case has certainly some points of interest"</speech> said</l>
-               <l facs="#facs_27_tr_1_tl_7" n="N006">he<add hand="Arthur Conan Doyle" place="supralinear" rend="black ink" >in his languid fashion</add><speech continued="true">"May I ask in the first place, <rs type="person">Mr McFarlane</rs>, how it is</speech></l>
+               <l facs="#facs_27_tr_1_tl_7" n="N006">he<add hand="Arthur Conan Doyle" place="supralinear" rend="black ink" > in his languid fashion </add><speech continued="true">"May I ask in the first place, <rs type="person">Mr McFarlane</rs>, how it is</speech></l>
                <l facs="#facs_27_tr_1_tl_8" n="N009"><speech continued="true">that you are still at liberty since there appears to be enough</speech></l>
                <l facs="#facs_27_tr_1_tl_9" n="N010"><speech continued="true">evidence to Justify your arrest."</speech></l>
-               <l rend="indent" facs="#facs_27_l_1615" n="N011"><speech continued="true">"I live at </speech><add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"><rs type="place"><speech continued="true">Torrington Lodge</speech></rs></add><speech continued="true">Blackheath with my parents, <rs type="person">Mr Holmes</rs>,</speech></l>
+      </p> 
+      <p>        
+               <l rend="indent" facs="#facs_27_l_1615" n="N011"><speech continued="true">"I live at </speech><add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"><rs type="place"><speech continued="true"> Torrington Lodge </speech></rs></add><speech continued="true">Blackheath with my parents, <rs type="person">Mr Holmes</rs>,</speech></l>
                <l facs="#facs_27_tr_1_tl_12" n="N014"><speech continued="true">but last night having to do business very late with <rs type="person" continued="true">Mr Jonas</rs></speech></l>
-               <l facs="#facs_27_tr_1_tl_13" n="N015"><add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"><rs type="person" continued="true"><speech continued="true">Oldacre</speech></rs></add><speech continued="true"><del><hi style="text-decoration: line-through;">Cooper</hi></del> I stayed at <rs type="place" continued="true">a hotel</rs></speech><rs type="place" continued="true"><speech continued="true">in</speech></rs><speech continued="true"><rs type="place" continued="true"><del><hi style="text-decoration: line-through;">at</hi></del> Norwood</rs> and came to my</speech></l>
+               <l facs="#facs_27_tr_1_tl_13" n="N015"><add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"><rs type="person" continued="true"><speech continued="true"> Oldacre </speech></rs></add><speech continued="true"><del><hi style="text-decoration: line-through;">Cooper</hi></del> I stayed at <rs type="place" continued="true">a hotel</rs></speech><rs type="place" continued="true"><speech continued="true">in</speech></rs><speech continued="true"><rs type="place" continued="true"><del><hi style="text-decoration: line-through;">at</hi></del> Norwood</rs> and came to my</speech></l>
                <l facs="#facs_27_tr_1_tl_15" n="N019"><speech continued="true">business from there. I heard nothing of this affair but in the</speech></l>
                <l facs="#facs_27_tr_1_tl_16" n="N020"><speech continued="true">until I was in the train when I read what you have just heard.</speech></l>
                <l facs="#facs_27_tr_1_tl_17" n="N021"><speech continued="true">I at once saw the horrible danger of my position and I hurried</speech></l>
@@ -75,12 +79,15 @@
                <l facs="#facs_27_tr_1_tl_20" n="N024"><speech continued="true"><rs type="place" continued="true">home</rs>. A man followed me from <rs type="place">London Bridge Station</rs>, and</speech></l>
                <l facs="#facs_27_l_5221" n="N025"><speech continued="true">I have no doubt -</speech></l>
                <l facs="#facs_27_l_5222" n="N026"><del><speech continued="true"><hi style="text-decoration: line-through;"><unclear>oh my God<speech continued="true"/></unclear><speech continued="true"/></hi><speech continued="true"/><unclear/></speech><speech continued="true"><hi style="text-decoration: line-through;"/><unclear/></speech><unclear/><unclear/></del><unclear/></l>
-               <l facs="#facs_27_tr_1_tl_21" n="N027"><add><speech continued="true">Great heaven,</speech></add></l>
+               <l facs="#facs_27_tr_1_tl_21" n="N027"><add><speech continued="true"> Great heaven, </speech></add></l>
                <l facs="#facs_27_tr_1_tl_23" n="N028"><speech continued="true">what is that?"</speech></l>
+      </p>
+      <p>         
                <l rend="indent" facs="#facs_27_tr_1_tl_24" n="N029">It was a clang at the door bell, followed</l>
                <l facs="#facs_27_tr_1_tl_25" n="N030">instantly by heavy steps upon the stair. A moment later our</l>
                <l facs="#facs_27_tr_1_tl_26" n="N031">old friend <rs type="person">Lestrade</rs> appeared in the doorway. Over his</l>
-            </ab></div>
+            </p>
+            </div>
       </body>
    </text>
 </TEI>
