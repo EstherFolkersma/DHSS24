@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5346" lry="7115" xml:id="facs_27">
+         <graphic url="0027_027_12r.jpeg" width="5346px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HRSZMKWOQGLWTDYXMWZWLRIH&amp;fileType=view" width="5346px" height="7115px"/>
+         <zone points="4573,319 4862,319 4862,565 4573,565" rendition="TextRegion" xml:id="facs_27_r" subtype="page-number">
+            <zone points="4650,355 4788,355 4788,535 4650,535" rendition="Line" xml:id="facs_27_l_1672"/>
+         </zone>
+         <zone points="202,1049 5169,1049 5169,6715 202,6715" rendition="TextRegion" xml:id="facs_27_tr_1">
+            <zone points="481,1035 2671,1035 2671,1456 481,1456" rendition="Line" xml:id="facs_27_l"/>
+            <zone points="2839,848 3543,848 3543,1233 2839,1233" rendition="Line" xml:id="facs_27_tr_1_tl_1"/>
+            <zone points="2653,1095 5125,1095 5125,1450 2653,1450" rendition="Line" xml:id="facs_27_l_1594"/>
+            <zone points="247,1401 2911,1401 2911,1726 247,1726" rendition="Line" xml:id="facs_27_tr_1_tl_3"/>
+            <zone points="980,1666 5095,1666 5095,2045 980,2045" rendition="Line" xml:id="facs_27_tr_1_tl_4"/>
+            <zone points="277,2063 553,2063 553,2304 277,2304" rendition="Line" xml:id="facs_27_tr_1_tl_7"/>
+            <zone points="168,1859 1444,1859 1444,2105 168,2105" rendition="Line" xml:id="facs_27_tr_1_tl_5"/>
+            <zone points="608,1973 4980,1973 4980,2328 608,2328" rendition="Line" xml:id="facs_27_tr_1_tl_6"/>
+            <zone points="289,2268 4800,2268 4800,2671 289,2671" rendition="Line" xml:id="facs_27_tr_1_tl_8"/>
+            <zone points="313,2611 2869,2611 2869,2947 313,2947" rendition="Line" xml:id="facs_27_tr_1_tl_9"/>
+            <zone points="1059,2911 1945,2911 1945,3205 1059,3205" rendition="Line" xml:id="facs_27_l_1615"/>
+            <zone points="1504,2803 2659,2803 2659,3044 1504,3044" rendition="Line" xml:id="facs_27_tr_1_tl_10"/>
+            <zone points="1945,2833 4998,2833 4998,3230 1945,3230" rendition="Line" xml:id="facs_27_l_1616"/>
+            <zone points="313,3188 4956,3188 4956,3531 313,3531" rendition="Line" xml:id="facs_27_tr_1_tl_12"/>
+            <zone points="241,3423 692,3423 692,3615 241,3615" rendition="Line" xml:id="facs_27_tr_1_tl_13"/>
+            <zone points="301,3501 2256,3501 2256,3874 301,3874" rendition="Line" xml:id="facs_27_l_1701"/>
+            <zone points="2268,3471 2400,3471 2400,3591 2268,3591" rendition="Line" xml:id="facs_27_l_1685"/>
+            <zone points="2226,3477 4758,3477 4758,3820 2226,3820" rendition="Line" xml:id="facs_27_l_1702"/>
+            <zone points="313,3741 5029,3741 5029,4150 313,4150" rendition="Line" xml:id="facs_27_tr_1_tl_15"/>
+            <zone points="325,4054 5161,4054 5161,4415 325,4415" rendition="Line" xml:id="facs_27_tr_1_tl_16"/>
+            <zone points="313,4373 5089,4373 5089,4704 313,4704" rendition="Line" xml:id="facs_27_tr_1_tl_17"/>
+            <zone points="409,4674 4884,4674 4884,5029 409,5029" rendition="Line" xml:id="facs_27_tr_1_tl_18"/>
+            <zone points="403,4950 4938,4950 4938,5359 403,5359" rendition="Line" xml:id="facs_27_tr_1_tl_19"/>
+            <zone points="361,5269 5107,5269 5107,5624 361,5624" rendition="Line" xml:id="facs_27_tr_1_tl_20"/>
+            <zone points="385,5582 2123,5582 2123,5901 385,5901" rendition="Line" xml:id="facs_27_l_5221"/>
+            <zone points="2105,5660 2647,5660 2647,5889 2105,5889" rendition="Line" xml:id="facs_27_l_5222"/>
+            <zone points="2159,5498 3038,5498 3038,5708 2159,5708" rendition="Line" xml:id="facs_27_tr_1_tl_21"/>
+            <zone points="2707,5606 4361,5606 4361,5925 2707,5925" rendition="Line" xml:id="facs_27_tr_1_tl_23"/>
+            <zone points="1125,5889 4379,5889 4379,6244 1125,6244" rendition="Line" xml:id="facs_27_tr_1_tl_24"/>
+            <zone points="259,6105 4944,6105 4944,6544 259,6544" rendition="Line" xml:id="facs_27_tr_1_tl_25"/>
+            <zone points="277,6466 4493,6466 4493,6839 277,6839" rendition="Line" xml:id="facs_27_tr_1_tl_26"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_27" n="27" xml:id="img_0027"/><fw type="page-number" facs="#facs_27_r" place="top">
+               <l rend="indent" facs="#facs_27_l_1672" n="N001">10</l></fw><ab facs="#facs_27_tr_1" type="">
+               <l rend="indent" facs="#facs_27_l" n="N001"><rs type="person">Sherlock Holmes</rs> listened with<add hand="Arthur Conan Doyle" place="supralinear" rend="black ink">closed eyes</add><del><hi style="text-decoration: line-through;">his eyes closed</hi></del> and his fingertips</l>
+               <l facs="#facs_27_tr_1_tl_3" n="N004">together, to this remarkable account.</l>
+               <l rend="indent" facs="#facs_27_tr_1_tl_4" n="N005"><speech>"The case has certainly some points of interest"</speech> said</l>
+               <l facs="#facs_27_tr_1_tl_7" n="N006">he<add hand="Arthur Conan Doyle" place="supralinear" rend="black ink" >in his languid fashion</add><speech continued="true">"May I ask in the first place, <rs type="person">Mr McFarlane</rs>, how it is</speech></l>
+               <l facs="#facs_27_tr_1_tl_8" n="N009"><speech continued="true">that you are still at liberty since there appears to be enough</speech></l>
+               <l facs="#facs_27_tr_1_tl_9" n="N010"><speech continued="true">evidence to Justify your arrest."</speech></l>
+               <l rend="indent" facs="#facs_27_l_1615" n="N011"><speech continued="true">"I live at </speech><add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"><rs type="place"><speech continued="true">Torrington Lodge</speech></rs></add><speech continued="true">Blackheath with my parents, <rs type="person">Mr Holmes</rs>,</speech></l>
+               <l facs="#facs_27_tr_1_tl_12" n="N014"><speech continued="true">but last night having to do business very late with <rs type="person" continued="true">Mr Jonas</rs></speech></l>
+               <l facs="#facs_27_tr_1_tl_13" n="N015"><add hand="Arthur Conan Doyle" place="supralinear" rend="black ink"><rs type="person" continued="true"><speech continued="true">Oldacre</speech></rs></add><speech continued="true"><del><hi style="text-decoration: line-through;">Cooper</hi></del> I stayed at <rs type="place" continued="true">a hotel</rs></speech><rs type="place" continued="true"><speech continued="true">in</speech></rs><speech continued="true"><rs type="place" continued="true"><del><hi style="text-decoration: line-through;">at</hi></del> Norwood</rs> and came to my</speech></l>
+               <l facs="#facs_27_tr_1_tl_15" n="N019"><speech continued="true">business from there. I heard nothing of this affair but in the</speech></l>
+               <l facs="#facs_27_tr_1_tl_16" n="N020"><speech continued="true">until I was in the train when I read what you have just heard.</speech></l>
+               <l facs="#facs_27_tr_1_tl_17" n="N021"><speech continued="true">I at once saw the horrible danger of my position and I hurried</speech></l>
+               <l facs="#facs_27_tr_1_tl_18" n="N022"><speech continued="true">to put the case into your hands. I have no doubt that I</speech></l>
+               <l facs="#facs_27_tr_1_tl_19" n="N023"><speech continued="true">should have been arrested either at my <rs type="place">City Office</rs> or at <rs type="place" continued="true">my</rs></speech></l>
+               <l facs="#facs_27_tr_1_tl_20" n="N024"><speech continued="true"><rs type="place" continued="true">home</rs>. A man followed me from <rs type="place">London Bridge Station</rs>, and</speech></l>
+               <l facs="#facs_27_l_5221" n="N025"><speech continued="true">I have no doubt -</speech></l>
+               <l facs="#facs_27_l_5222" n="N026"><del><speech continued="true"><hi style="text-decoration: line-through;"><unclear>oh my God<speech continued="true"/></unclear><speech continued="true"/></hi><speech continued="true"/><unclear/></speech><speech continued="true"><hi style="text-decoration: line-through;"/><unclear/></speech><unclear/><unclear/></del><unclear/></l>
+               <l facs="#facs_27_tr_1_tl_21" n="N027"><add><speech continued="true">Great heaven,</speech></add></l>
+               <l facs="#facs_27_tr_1_tl_23" n="N028"><speech continued="true">what is that?"</speech></l>
+               <l rend="indent" facs="#facs_27_tr_1_tl_24" n="N029">It was a clang at the door bell, followed</l>
+               <l facs="#facs_27_tr_1_tl_25" n="N030">instantly by heavy steps upon the stair. A moment later our</l>
+               <l facs="#facs_27_tr_1_tl_26" n="N031">old friend <rs type="person">Lestrade</rs> appeared in the doorway. Over his</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
